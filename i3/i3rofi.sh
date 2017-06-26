@@ -1,0 +1,1 @@
+rofi -show run -lines 3 -eh 2 -width 100 -padding 400 -opacity "100" -bw 0 -font "System San Francisco Display 18" -separator-style "none"  -color-window "#2f343f" -color-normal "#2f343f,white,#2f343f,#2f343f,#9575cd"
