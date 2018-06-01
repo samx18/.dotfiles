@@ -19,4 +19,4 @@ export PATH=~/.npm-global/bin:$PATH
 export NODE_PATH=/usr/local/lib/node_modules:/usr/local/lib/node
 export NODE_PATH=$NODE_PATH:~/.npm-global/lib/node_modules
 # Python PATH
-export PATH="/home/sam/anaconda2/bin:$PATH"
+export PATH="$HOME/bin:$HOME/anaconda2/bin:$PATH"
